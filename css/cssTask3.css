@@ -70,10 +70,13 @@ footer p{
 
 .right_part{
 	float:right;
+<<<<<<< HEAD
 	position:relative;
 	right:2em;
 }
 
 .imgL,.ImgR{
 	width:8em;
+=======
+>>>>>>> 384558ea7c47f5eb484b5099850c327f120234ed
 }
