@@ -3,6 +3,7 @@
 *{
 	margin:0;
 	padding:0;
+	list-style:none;
 }
 body{
 	background:#68cdd5;
@@ -10,6 +11,16 @@ body{
 	height:100%;
 	font-size=62.5%;
 	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+a{
+	text-decoration:none;
+	color:#fff;
+	cursor:pointer;	
+}
+
+img{
+	border:none;
 }
 
 .wrap{
